@@ -1,2 +1,2 @@
-1. It is first project on 8051 microcontroller here we give the i/p by the keypad and it print in the lcd when we press ON/C. it set the time in mili second and led start toggle with 50ms delay.
-   what time we give in LCD that time it will toggle after the given time it will stop. when user reenter the value it reset duration and start blinking.  
+1. It is project on 8051 microcontroller here we give the i/p through the keypad and it print in the lcd when we press ON/C. it set the time in mili second and led start toggle with with the given delay time.
+   here basically we control the toggling speed. after 10sec it reset. when user reenter the delay time it set and generate the delay and it toggle 10sec. 
